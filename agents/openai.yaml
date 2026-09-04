@@ -1,0 +1,4 @@
+interface:
+  display_name: "CoinPilot Web3 小红书"
+  short_description: "为中文新手策划并撰写可靠、自然的 Web3 小红书图文"
+  default_prompt: "使用 $coinpilot-web3-xiaohongshu 策划今天的 Web3 新手科普图文。"
